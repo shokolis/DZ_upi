@@ -12,7 +12,6 @@ while True:
 
     print("Данные успешно добавлены в список.")
 
-print("Введенные данные:")
 
 for data in data_list:
     print(data['ФИО'])
